@@ -6,6 +6,8 @@ It also contains a few visualizations.
 
 I would suggest looking at the examples in random order.
 
+Scroll down to the bottom of each example to see the answers.
+
 ---
 
 In order to run the visualizations, you need matplotlib.
