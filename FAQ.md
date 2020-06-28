@@ -21,3 +21,15 @@ Q: Why do we care about the differences in input sizes?
 A: We focus on what happens when the input get extremely large. "The differences in speed are likely to be minimal when the input size is small. When the input size gets enormous, that is where we can see the differences in efficiency between different algorithms."
 
 source: https://learn.lambdaschool.com/cs/module/reck76SPX26beGSqE/
+
+---
+
+Q: Do constants ever matter?
+
+A: Not officially when determining the official Big O notation of an algorithm. That said, "just because two algorithms have the same Big O notation doesn’t mean they are equal."
+
+An example where it might be wise to consider the constants:
+
+"Imagine you have a script that takes 1 hour to run. By improving the function, you can divide that runtime by six, and now it only takes 10 minutes to run. With Big O notation, O(n) and O(n/6) can both be written as O(n), but that doesn’t mean it isn’t worth optimizing the script to save 50 minutes every time the script runs."
+
+source: https://learn.lambdaschool.com/cs/module/reck76SPX26beGSqE/
