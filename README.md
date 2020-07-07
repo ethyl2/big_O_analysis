@@ -43,3 +43,7 @@ With Big O, we talk about the worst-case scenerios.
 ## As far as space complexity goes:
 
 Similar to time, except that we look at memory (or space cost). We look at which additional memory is needed (besides what is needed for the inputs) as the input gets larger.
+
+## Big O Cheatsheet:
+
+https://www.bigocheatsheet.com/
