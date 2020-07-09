@@ -71,4 +71,6 @@ Each slice of data on its own is O(n). But we recurse n times, so it becomes O(n
 So the total space complexity for this algorithm is:
 
 O(n) + O(n^2). The O(n^2) dominates, so the final space complexity is just O(n^2).
+
+source: https://github.com/LambdaSchool/cs-module-project-recursive-sorting
 """
