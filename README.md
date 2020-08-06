@@ -47,3 +47,7 @@ Similar to time, except that we look at memory (or space cost). We look at which
 ## Big O Cheatsheet:
 
 https://www.bigocheatsheet.com/
+
+## Handy notes on time complexity of Python data structures' methods
+
+https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
